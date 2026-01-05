@@ -205,5 +205,5 @@ These values indicate reliable helmet detection with strong precision.
 
 ## Author
 
-[**Muhammad Qasim**](www.linkedin.com/in/muhammad-qasim-irfan)
+[**Muhammad Qasim**](https://www.linkedin.com/in/muhammad-qasim-irfan/)
 
