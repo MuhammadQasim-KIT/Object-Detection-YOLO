@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['helmet']
+
+roboflow:
+  workspace: abhivir-singh-alrms
+  project: ppe-rkjzq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/abhivir-singh-alrms/ppe-rkjzq/dataset/1
