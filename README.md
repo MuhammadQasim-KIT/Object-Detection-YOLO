@@ -166,7 +166,7 @@ Supported formats include:
 ![Confusion Matrix](assets/figures/confusion_matrix.png)
 
 ### Sample Prediction
-![Sample Prediction](assets/results/val_batch0_pred.jpg)
+![Sample Prediction](assets/figures/val_batch0_pred.jpg)
 
 ---
 
