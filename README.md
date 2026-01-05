@@ -162,8 +162,25 @@ Supported formats include:
 ### Training Metrics
 ![Training Curves](assets/figures/results.png)
 
+- Training and validation losses decrease smoothly
+- Indicates stable convergence and good generalization
+- No significant overfitting observed
+
+### Detection Metrics
+
+- **mAP@0.5 ≈ 0.8**
+- **mAP@0.5:0.95 ≈ 0.5–0.55**
+- Precision reaches ~0.85–0.9
+- Recall stabilizes around ~0.65–0.7
+
+These values indicate reliable helmet detection with strong precision.
+
 ### Confusion Matrix
 ![Confusion Matrix](assets/figures/confusion_matrix.png)
+
+- 48 true helmet detections
+- 6 missed helmets
+- 24 false positives from background
 
 ### Sample Prediction
 ![Sample Prediction](assets/figures/val_batch0_pred.jpg)
