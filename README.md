@@ -160,13 +160,13 @@ Supported formats include:
 > and update or keep the filenames as shown.
 
 ### Training Metrics
-![Training Curves](assets/results/training_curves.png)
+![Training Curves](assets/figures/results.png)
 
 ### Confusion Matrix
-![Confusion Matrix](assets/results/confusion_matrix.png)
+![Confusion Matrix](assets/figures/confusion_matrix.png)
 
 ### Sample Prediction
-![Sample Prediction](assets/results/sample_prediction.png)
+![Sample Prediction](assets/results/val_batch0_pred.jpg)
 
 ---
 
